@@ -37,3 +37,28 @@ Simply click Update results button to run SQL command:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGcwezTmpMCVHgRFJgC%2F-MGdSpufwMc1GRdf8oY6%2FGIF149.gif?alt=media&token=70c1902a-67b6-4a3e-8d0b-76ff95ebf13e)
 
+## Migrating from old parameters syntax \(before **Jet Admin v2.4.0\)**
+
+Since **Jet Admin v2.4.0** we have changed the way how parameters are inserted in SQL query. Now you don't need to surround parameter value with quotes. **Previously saved queries will continue to work, but you will need remove unnecessary quotes when you will be changing the query \(or use compatibility flag described below\).**
+
+```sql
+SELECT * FROM people WHERE 
+city = {{params.city}} 
+AND age >= {{params.age}} 
+AND name ILIKE {{'%'+params.search+'%'}}
+
+# Before Jet Admin v2.4.0
+
+SELECT * FROM people WHERE 
+city = '{{params.city}}' 
+AND age >= {{params.age}}
+AND name ILIKE '%{{params.search}}%'
+```
+
+You can use **compatibility flag** if you want to stay with old parameters syntax, but it will be deprecated at some moment. Just insert the following option at the top of the query.
+
+```sql
+-- @JET_QUERY_VERSION=1
+SELECT * FROM people WHERE city = '{{params.city}}'
+```
+
