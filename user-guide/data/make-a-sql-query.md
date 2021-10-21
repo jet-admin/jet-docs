@@ -2,42 +2,23 @@ To quickly configure the display of your data from a database, you can build SQL
 
 ## Open SQL Query Builder
 
-1. Go to Component Settings then click `Add Data Source`
+You can open the SQL Builder directly from the component simply by selecting the SQL resource. The SQL Builder will be opened automatically in case you do not create any collections yet, otherwise you will need to select Make SQL Query from the list of collections for your SQL resource:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_psD4L-Hj5eIFJ5Fj%2F-MG_q_FOrInMGFQmtdPV%2FGIF85.gif?alt=media&token=951fc8fe-7bd5-4545-8e1c-8816b4cf71a6)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjehuplWWd6OK_2hI_D%2F-MjeidvxKZ6geBub4A1n%2Ftestgif42.gif?alt=media&token=36bfd635-665e-492a-942f-108a64ea512a)
 
-2. Choose Resource – SQL Database \(PostgreSQL, MySQL\) and Collection – `Make an SQL request`
+## Pass Inputs
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_psD4L-Hj5eIFJ5Fj%2F-MG_rIlgt6vOUvq5B4ry%2FGIF85.gif?alt=media&token=c2690e0a-c599-4161-9075-cba2a7387f58)
+To pass [values](user-guide/parameters) from SQL Query Builder, such as `id`or `email`, you need to specify them within the Inputs tab:
 
-## Pass parameters
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjehuplWWd6OK_2hI_D%2F-MjeisIsNwvdh6JOrgjr%2Fimage.png?alt=media&token=4be7a963-9d44-4529-89e3-e31b232132df)
 
-To pass [parameters](user-guide/data/parameters) from SQL Query Bilder, such as `id`or `email`, you need to specify them in the Filters field in the SQL Builder.
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEPZl5nXUqkFwLq4_KD%2F-MEPahFJVPcXkJzGRm0r%2Fimage.png?alt=media&token=fade7e77-60e5-4a74-9647-f8672b6aa8ab)
-
-## Use app variable values in your request
-
-Tokens are app variables that store Jet's data. There are different type of tokens that you can use on your requests:
-
-* Current User
-* Parameters
-* Sorting
-* Tables Tokens
-
-You can specify default values for your tokens that will use in the request.
+## Use inputs in the query
 
 For example, you need to select data with a specific `id` or `email`from the table, you can make an SQL query and use the parameters:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEPZl5nXUqkFwLq4_KD%2F-MEPbss00zUEyU8YHT_o%2FGIF.gif?alt=media&token=1f0e2183-d891-4591-a9a8-4318b732f7de)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZ6Tonqdbn2e2wxgfC%2Ftestgif13.gif?alt=media&token=df427cc1-c46f-4611-a8fd-750ad9a8e016)
 
-## Run an SQL query
-
-Simply click Update results button to run SQL command:
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGcwezTmpMCVHgRFJgC%2F-MGdSpufwMc1GRdf8oY6%2FGIF149.gif?alt=media&token=70c1902a-67b6-4a3e-8d0b-76ff95ebf13e)
-
-## Migrating from old parameters syntax \(before **Jet Admin v2.4.0\)**
+## Migrating from old Inputs syntax \(before Jet Admin v2.4.0\)
 
 Since **Jet Admin v2.4.0** we have changed the way how parameters are inserted in SQL query. Now you don't need to surround parameter value with quotes. **Previously saved queries will continue to work, but you will need remove unnecessary quotes when you will be changing the query \(or use compatibility flag described below\).**
 

@@ -1,18 +1,12 @@
-## Let's build a Refund Tool in 2 mins 🚀
+## Custom CRM in 10 mins 🚀
 
-Refund Tool allows you to refund money to your customers for a specific transaction. Jet comes with an sample database and Stripe that you can use to test Jet. This two-minute tutorial will walk you through how to use the sample data sources to build an app which can browse, search customers, and refund transaction.
+To familiarize yourself with how Jet works, let's build a simple CRM that will allow us to `View` and `Edit` the Customers:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGD_WB57CE_Ex8csIKI%2F-MGE9LTqUzoMtFGt0B2U%2FGIF11.gif?alt=media&token=2e68b77e-4de2-4f1f-a67c-c4094bf527c1)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiejVIMLnTrkObRMrjF%2F-Miek2sOkQsI0uHIsCAh%2FQuickstart-internalapp.gif?alt=media&token=c338b30b-abec-40e8-bcda-be48ebaaf738)
 
+We'll go through the whole **process of creation** step by step. Let's start with our data:
 
-
-This part focuses on the basic Jet features, such as adding components, configuring settings, adding and configuring buttons, adding charts, etc.
-
-{% page-ref page="getting-started/quickstart/organizing-your-data" %}
-
-This part focuses on advanced Jet features such as custom HTTP, SQL queries, and single relation fields.
-
-{% page-ref page="getting-started/part-2-intermediate" %}
+{% page-ref page="getting-started/quickstart/connect-your-data" %}
 
 
 

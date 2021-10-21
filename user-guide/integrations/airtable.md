@@ -14,9 +14,9 @@ You can obtain your API key by following this [link](https://airtable.com/accoun
 
 ## 3. Pick your bases
 
-Just choose your bases that you want to allow Jet to work in order to build your application:
+Just choose your base that you want to allow Jet to work in order to build your application:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-M_oC1fgfAcqyv88hC_K%2F-M_oCN-hMC1L6Yj1N5XR%2F%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-05-16%20%D0%B2%2010.55.21.gif?alt=media&token=2c2f2827-afa6-4659-a849-131c85a6f9b8)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZdiERzPHVZS16HiGZ%2F-MjZeHgqGqnz1ZrfYJmb%2Ftestgif17.gif?alt=media&token=3ff841b9-16d7-48f9-a9af-35dc9f8fc0a5)
 
 
 

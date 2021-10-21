@@ -1,4 +1,4 @@
-To manage your subscriptions, simply go to the Billing & Plans settings.
+To manage your subscriptions, simply go to the Billing & Plans settings:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGa9LmjqLdzjIIEz_e5%2F-MGaB2zieika5dPSuGbF%2FGIF105.gif?alt=media&token=e4a105bd-e34d-489e-8887-9bd4ef8dc56b)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-Mjht4amMr3L__IXIrDy%2F-MjhxHMfR6xm8FuNAFvV%2Fimage.png?alt=media&token=eca7c32a-166a-451e-af7a-39b6ed66f0df)
 

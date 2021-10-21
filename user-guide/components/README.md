@@ -1,66 +1,72 @@
-Components are a way of displaying the data received from your resources as collections that you can add and customize on pages.
+## Setting the Layout
 
-## Adding components
+**Layout** components allow you to assemble other components on the page. We recommend starting with the `columns` component - just drag-and-drop it on the page:
 
-You can add any components to your page and customize them using Visual Builder by simply drag-and-drop any component to your page:
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRMsk-0toiHRzlz_QR%2F-MiROfEyLPnlN1jnBcjH%2FComponents3.gif?alt=media&token=71f02c7c-c74a-4904-9cdc-7cf4176a0f4e)
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_rN6gQyHDH6Kaj_5E%2F-MG_x5ANPJIyAlO4zhlX%2FGIF87.gif?alt=media&token=7b38a978-c515-4f0e-b818-52aa9ffe2b4f)
+## Adding Components
 
-## List of available components
+You can add any component by simply drag-and-droping it onto the page:
+
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiQnmmt5o602X4KCK5M%2F-MiQu7zgjVdDPi9jE2wZ%2FComponents1.gif?alt=media&token=b4ad1da4-c1b3-43ac-9c50-e84dddef4b53)
+
+## Configuring Components
+
+Different `components` have different settings, which you can access on the right of the window after clicking on the component once:
+
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRhStQ47cxkL8TNm1a%2F-MiRi-hDc1x3ynDtM-Vm%2FComponents10.gif?alt=media&token=92ac0506-5441-4d16-9bc2-726e76098a04)
+
+{% hint style="success" %}
+Check the overview of the most commonly used components below:
+{% endhint %}
 
 ## Lists
 
-Lists components are simply different layout types for displaying your collection data in the most appropriate way. You can display your data as Table, Kanban, Map, Calendar, Gallery, and Timeline.
+Lists are UI components used for displaying your collections. You can display your data as `Table`, `Kanban`, `Map`, `Calendar`, `Gallery`, and `Timeline`.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MA_ZFzVafq6QCvJZNzT%2F-MAaO_sitKf57-pTP2QC%2Fimage.png?alt=media&token=1929aebb-733d-4555-aa5a-bae8cf5e24e8)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiQnmmt5o602X4KCK5M%2F-MiR8pe9tJAsYA9KVUzq%2Fimage.png?alt=media&token=8241c8d3-e362-4c9f-ab8d-347b5c0cd343)
 
 {% page-ref page="user-guide/components/lists" %}
 
 ## Charts
 
-Charts let you display and track global KPIs on the page as well as provide at-a-glance performance insights. It's the fastest way to create analytical reports on your data. In Jet Admin, you can visualize your data as any of the following chart widgets: **line**, **bar**, **pie** and **doughnut charts**, **counter**.
+`Charts` let you display your data in several ways: **line**, **bar**, **pie,** **doughnut**, and **single value**.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MFeQyoOgj49gsCUPLmK%2F-MFed4Io6WUu_nePx0YX%2Fimage.png?alt=media&token=0ca33005-1279-4297-85ae-b68d5d728ea9)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRiVAvn3Bg4Rkbi-cN%2F-MiRkMdO69XFMWxMUmCE%2Fimage.png?alt=media&token=e9e0d20f-c2b2-454c-a090-e265667f60e1)
+
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiQnmmt5o602X4KCK5M%2F-MiRBfNPlLIbyMuGZeui%2Fimage.png?alt=media&token=9af9d57b-36fc-4d91-9001-3460f5eba612)
 
 {% page-ref page="user-guide/components/charts" %}
 
 ## Text
 
-In static elements, you can set titles, text, and any description.
+To set descriptions, you can set different static text elements:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MFeQyoOgj49gsCUPLmK%2F-MFehZ81YySXpGmcxgVl%2Fimage.png?alt=media&token=4f8d193b-b973-4d38-b4b9-ef9805035deb)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-Mjhxq7-5mUfqTQL6bix%2F-MjhybPQLL_0uSTDCmSU%2Fimage.png?alt=media&token=9a9d949e-f6c5-415f-a9d8-8e5e4537b142)
 
 {% page-ref page="user-guide/components/text" %}
 
-## Image
+## Media & Files
 
-In static components, you can add an image to a page. Simply drag the component to the page and upload your photo.
+You can use images, files, and videos in Jet Admin. Just drag-and-drop the right component and configure it:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_rN6gQyHDH6Kaj_5E%2F-MG_xhbBwSVAY2YW6n2h%2FGIF88.gif?alt=media&token=d4b520b8-23d5-43a8-b56c-3985505c989a)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiQnmmt5o602X4KCK5M%2F-MiRMpTSS1-wmg6sLprG%2FComponents2.gif?alt=media&token=1b26cb7a-376d-45a4-b511-b4cedcbafd27)
 
 ## Buttons
 
-Buttons are the execution of any action. For example, you can create buttons to execute: Copy to clipboard, Send an email, Open a link, Link to page, and others.
+Buttons are used to execute actions. For example, you can create buttons to execute: Copy to clipboard, Send an email, Open a link, Link to page, and others.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-ME23suA_lZiyyl5cbXi%2F-ME2JH3LQlOpVyRPENIJ%2Fimage.png?alt=media&token=b8c426e3-f4d7-4e63-aec5-748789e973e4)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-Mjhxq7-5mUfqTQL6bix%2F-MjhzYpjUmIAVyMaCuAu%2Fimage.png?alt=media&token=258f3a67-10d3-4959-835d-fa3e136188f1)
 
 {% page-ref page="user-guide/components/buttons" %}
 
-## Containers
+## Forms
 
-Containers help you organize your page structure. For example, you need to structure the data on the page into columns or sections.
+Forms are the UI elements that are used to receive or display single values. They can be set as editable or non-editable.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_rN6gQyHDH6Kaj_5E%2F-MG_yGoagtOV7iHeAS0r%2FGIF89.gif?alt=media&token=62cf3532-c6e4-4a42-addf-d66f8660f9f8)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRMsk-0toiHRzlz_QR%2F-MiRR-tUhhIUKc4bPN6o%2FComponents4.gif?alt=media&token=87296252-0207-47a7-a61c-acfa409217a4)
 
-{% page-ref page="user-guide/components/layouts" %}
-
-## Fields
-
-Fields are single record data obtained from your resources. By default, all fields from your resource will be rendered as a text, but you can switch to a more appropriate one.
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_rN6gQyHDH6Kaj_5E%2F-MG_yeubSPA3cdPF-Gn7%2FGIF90.gif?alt=media&token=89f08f1c-f6bb-41a2-a0e1-b22fb6a2ca95)
-
-{% page-ref page="user-guide/data/fields" %}
+{% page-ref page="user-guide/components/form" %}
 
 ## Custom component
 

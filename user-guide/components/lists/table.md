@@ -1,38 +1,46 @@
-## What is Table?
+## Table component
 
-A table is a way of displaying the data received from your resources as a collection. Сollection like a spreadsheet is a list of records with rows and columns. 
+Use `Table` component to view and interact with data from your collections:
 
-Connecting resources to your table are described in the [Data](user-guide/data) section of our documentation. Therefore, in this step-by-step guide, we will show you how to display your data in a Table.
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGa8Kc7GENDzqRhf1_a%2F-MGa8jYH156EFKDLSzXP%2Fimage.png?alt=media&token=46364514-38ea-4f99-ac9e-92d4dd20c6ef)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRRZG5h_XM539zkB0A%2F-MiRSlmJFtCeX_yh2YqX%2Fimage.png?alt=media&token=e268f344-e4a9-4c41-82a7-76756d9f22a6)
 
 ## Adding Table 
 
 Adding components explained [here](user-guide/components/lists#adding-list-component). 
 
-## Table display settings
+## Table Settings
 
-Once you have added a table to your page and connected the resources, you can customize the display of your table. 
+You can customize any component in Jet Admin and the Table component is not an exception. You can rearrange columns and enable/disable them:
 
-For example, if you want to remove a displayed column from your table, simply switch the checkbox and the column will automatically disappear from the table. Or you want to swap columns, just drag the field to the desired position.
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRRZG5h_XM539zkB0A%2F-MiRTXf5G9nGW-y5Qtsz%2FComponents5.gif?alt=media&token=4eb64ff0-b859-4f95-924f-7ecced29ddb9)
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGbiUIEY8wGfbc2uQ7s%2F-MGblVvvTo_AaEvk1K-f%2FGIF126.gif?alt=media&token=e60d2666-80c8-49dd-9840-8850f5317262)
+On top of it, you can customize each field individually, for example, change the name of a column or change the field type:
 
-You can customize each field individually, for example, you need to change the name of a column, or you can change the column type. You can also set [additional parameters](user-guide/data/fields#additional-parameters).
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGbiUIEY8wGfbc2uQ7s%2F-MGbm0EjDwVNhXIiZ-8o%2FGIF127.gif?alt=media&token=d961e616-819b-4159-a760-e8cb4d58bc2c)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRRZG5h_XM539zkB0A%2F-MiRUUILR63sw0J2KmIC%2FComponents7.gif?alt=media&token=1e25f0a3-fc3e-4826-bfb7-09bd894e2d9d)
 
 ## Search
 
-For example, you have your company's customers table and you want to search this table by email or customer name. To do this, you need to enable a search by your table, just switch the checkbox and configure the search. Just select the collection you want to search in.
+You can enable Search for your table, just enable the flag:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGbiUIEY8wGfbc2uQ7s%2F-MGbnTDOy0oScZQw79YT%2FGIF128.gif?alt=media&token=1fc00596-f03c-4120-9e17-8a886274a3b5)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRUWKf0L5TayDlsVYO%2F-MiRVHgkj-SOiwiJYbsh%2FComponents8.gif?alt=media&token=3f526940-c94a-4f74-8749-cc0516f4992d)
+
+## Selection function
+
+Any `table` in Jet Admin has the `selected row` function that can be used to trigger all sorts of actions as well as fetching values from selected records:
+
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRUWKf0L5TayDlsVYO%2F-MiRWERb_hLVtOa7Z6y-%2FComponents6.gif?alt=media&token=b9b29c78-5455-43e6-ad98-4976510f167c)
 
 ## Actions
 
-Here is a detailed explanation of how to set Header or Selected Action.
+You can trigger actions for the selected row function. For example, you can open a modal pop-up or navigate to a record page:
+
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiRUWKf0L5TayDlsVYO%2F-MiRYA9iOePzRkr03Nc8%2FComponents9.gif?alt=media&token=44d1d508-8ee3-4863-b1e0-2938dcdb8bea)
+
+{% hint style="info" %}
+When you connect SQL DBs, Firebase, Airtable, or Sheets, Jet Admin automatically generates all the **CRUD** actions - just select them from the dropdown
+{% endhint %}
 
 {% page-ref page="user-guide/components/lists" %}
 
-{% page-ref page="user-guide/data/actions" %}
+{% page-ref page="user-guide/design-and-structure/actions" %}
 

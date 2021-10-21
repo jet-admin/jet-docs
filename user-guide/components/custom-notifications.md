@@ -14,7 +14,7 @@ We provide 4 types of notifications: **success**, **info**, **warning,** and **e
 
 ## Set up Success notification
 
-Let's look at the workflow of changing a customer's status, for which you have already configured a primary [action ](user-guide/data/actions)to change the status field in your data source. Now you have to set another action that'll be executed after completing the primary action \(status change\). The succession of events will be this:
+Let's look at the workflow of changing a customer's status, for which you have already configured a primary [action ](user-guide/design-and-structure/actions)to change the status field in your data source. Now you have to set another action that'll be executed after completing the primary action \(status change\). The succession of events will be this:
 
 1. Go to **After Completion** section
 2. Navigate to **When action succeeded** and click **Success action**

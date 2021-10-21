@@ -1,12 +1,22 @@
-Jet Admin is a no-code internal tool builder. The simple drag-and-drop interface enables anyone to create the tools they need to manage daily operations, like tracking orders, resolving issues, and monitoring payments. 
+# What is Jet Admin?
 
-# Build an Internal Tool in 2 mins
+Jet Admin is an **app builder** that allows you to create **Client Portals**, **Business Apps**, and **Internal Tools** with your **existing data**, whether it's from DBs, APIs, or Storages. You can build apps such as `Onboarding apps`, `Admin Panels`, `Vendor portals`, `CRMs`, and much more really fast and without code.
+
+# Building a Business App?
+
+This **3 min video** will walk you through the process of building a business app from scratch:
 
 {% embed url="https://youtu.be/RDM\_lm6x5Uc" %}
 
-{% page-ref page="getting-started/quickstart" %}
+# Building a Portal?
 
-# Support
+This **5 min video** will walk you through the process of building a client portal from scratch:
 
-If you need any help with the installation and set-up, reach out to support through Intercom on the bottom right or email [support@jetadmin.io](mailto:support@jetadmin.io).
+{% embed url="https://www.youtube.com/watch?v=WpQ-PsAbmD8&ab\_channel=JetAdmin" %}
+
+# Ready to Get Started?
+
+The **Quickstart** will walk you through the necessary steps for building your first app in Jet:
+
+{% page-ref page="getting-started/quickstart-2" %}
 

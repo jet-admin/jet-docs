@@ -1,6 +1,6 @@
 For instance, you need to make your own API request, just choose `Make an HTTP request` as an operation. Let's look at an example of how to get a list of transactions. We are going to display a list of transactions in the table component with the Stripe API \(you can use any API\). 
 
-## Make API request using API Builder
+## Make an API request using API Builder
 
 1. Go to the Component Settings then `Add Data Resource`
 

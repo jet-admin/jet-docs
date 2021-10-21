@@ -10,7 +10,7 @@ Authorization: Bearer {{token}}
 
 Adding an API that uses a bearer token authentication scheme is easy in Jet Admin. Just add it as a global header in the Resource configuration screen and all your API requests that use the resource will have the right auth headers sent over.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEF1cosNKZJIe1q8U7j%2Fimage.png?alt=media&token=1d39176a-d78b-4c0c-8847-14f1890b3a37)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZ_nIkIcf5Ot0SAQXu%2Fimage.png?alt=media&token=161cafe5-09c1-4e93-bf20-44a9a7e28326)
 
 {% page-ref page="user-guide/data/make-an-http-request" %}
 

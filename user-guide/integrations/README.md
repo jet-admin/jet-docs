@@ -2,32 +2,28 @@ Jet Admin connects a lot of resources you need to build your internal tools. A f
 
 * **Databases**: [PostgreSQL](user-guide/integrations/postgresql-integration), [MySQL](user-guide/integrations/postgresql-integration), [Microsoft SQL](user-guide/integrations/postgresql-integration), [Oracle](user-guide/integrations/postgresql-integration), [SQLite](user-guide/integrations/postgresql-integration), [Firebase](user-guide/integrations/firebase-firestore)
 * **Internal** [REST APIs](user-guide/integrations/rest-api) and [GraphQL](user-guide/integrations/graphql)
-* **External APIs**: [Stripe](user-guide/integrations/stripe), [SendGrid](user-guide/integrations/sendgrid), [Zendesk](user-guide/integrations/zendesk), etc
+* **Business apps**: [Stripe](user-guide/integrations/stripe), [SendGrid](user-guide/integrations/sendgrid), [Zendesk](user-guide/integrations/zendesk), etc
 * **Frameworks**: [Django](user-guide/integrations/django-framework-package)
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEASxXXVfhOU3ycHqWC%2F-MEATLShxOiuEtiNY76U%2Fimage.png?alt=media&token=17ffcc96-d302-4d4f-b3c1-affe025e5bca)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ2xbGlJideADYJcKN%2F-MjZ3CUFcG-WwfLae_ly%2Fimage.png?alt=media&token=33a8e353-b707-4fe3-9675-b864e9e250e6)
 
-## 1. Adding resource from Admin panel Templates
+## 1. Adding resources from Data section
 
-The faster way to start with Jet by using Templates. Just click the **Choose Template** button and you can see more than 10+ ready-to-use templates. Connect your resources for a specific template.
+You can add an unlimited number of resources from the available resources by going to the Data section:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEARDHAf5fZF9PFdDjC%2F-MEARpD-9hQD3Vs-B08w%2FGIF.gif?alt=media&token=6e9a0648-8622-4321-a707-22161ce68018)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjYz_yH3kEN7-VNL7z9%2F-MjZ0V4A7fQE0OIx1tnZ%2Ftestgif3.gif?alt=media&token=fdbf8298-522d-48a0-bfbe-372e45c54e63)
 
-## 2. Adding a resource from Visual Builder
+## 2. Adding a resource from Page
 
-**From scratch.** Simply drag-and-drop the component you need on the page and add the [data source](user-guide/data).
+Simply hit the **Import App From Resource** button to select the resource you want to integrate with Jet.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGN3pskgjpjsxM_GmF2%2F-MGN5MBsgHj_zyNxrU3s%2FGIF29.gif?alt=media&token=741a9f27-d162-499b-adb5-76f618e3aedb)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZ4BedRM9_jeakBr0v%2Ftestgif11.gif?alt=media&token=41e795b3-7af8-4fc3-af7d-0ee562e310a3)
 
-**From component templates.** On the right side menu, select the `Templates` tab, then select the resource you want to add and simply drag-and-drop any collection.
+You can also add any resource directly from the component Data settings:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGN3pskgjpjsxM_GmF2%2F-MGN87qa7FyzcERHmMr7%2FGIF30.gif?alt=media&token=ce685c20-3ccc-47dd-b309-8ccbfd7d85db)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZ5gr95DUaQsci_tqA%2Ftestgif12.gif?alt=media&token=9e3ce179-e34e-49ca-a997-61a2d17e85a2)
 
-## 3. Add resource from project settings
 
-You can add a new resource from the project settings at any time, just go to the **Resources** tab.
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEARDHAf5fZF9PFdDjC%2F-MEASjaz5W0qyRc0QVng%2FGIF.gif?alt=media&token=47627b18-6b44-4109-b6c2-17210aef0f83)
 
 {% page-ref page="user-guide/integrations/postgresql-integration" %}
 

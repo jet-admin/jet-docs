@@ -2,7 +2,7 @@ The quickest way to integrate database \(**localhost** not valid, use [**Docker*
 
 You'll need to fill out the following form:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEATPYmRPkKrbdBF-ss%2F-MEATsLNP6T7IfV1ALfq%2Fimage.png?alt=media&token=fed518f0-c18e-4968-9997-9cf489e076e4)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZ7Fjw5kkgeXm89izK%2Fimage.png?alt=media&token=533b380b-ce3d-41f2-8a29-30690e500c59)
 
 | Name | Description |
 | :--- | :--- |
@@ -18,7 +18,7 @@ You'll need to fill out the following form:
 
 Using Database integration you can make simple or [SQL queries](user-guide/data/make-a-sql-query) to your database:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-ME-iIaphZMtnaaHk2WV%2F-ME-lQVBeLBZC_ybD9gX%2FGIF.gif?alt=media&token=2d26a6b0-a9be-4038-9468-4297abad1000)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZ7TS3RQu83YOGWzug%2Ftestgif13.gif?alt=media&token=0f0054f5-0216-483b-8aac-dbabbf6482ed)
 
 Here is a [step-by-step guide](jet-bridge-deployment/database-heroku-deployment) to deploying the database to Heroku and finding your credentials.
 

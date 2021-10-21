@@ -8,7 +8,7 @@ First you need to sign up to [Twilio](https://www.twilio.com/). Your Dashbroad w
 
 Add Twilio to an existing project or connect Twilio as a resource when creating a new project. Copy your Account SID and Auth Token into fields to connect the resource.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEF5sQAPr5N4icum7pH%2FGIF.gif?alt=media&token=dd4016fc-3562-4493-8c68-b1dcbd0120f6)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjdCLE41J86itvQY858%2F-MjdDpC7eivEm88nTLUw%2Fimage.png?alt=media&token=08fd3557-ee42-4c31-b9d8-7ea6286f23ee)
 
 {% page-ref page="user-guide/components/buttons" %}
 

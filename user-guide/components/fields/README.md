@@ -26,5 +26,3 @@ You can get the value of the selected record in the component by configuring the
 
 More information about Additional Parameters in our documentation.
 
-{% page-ref page="user-guide/data/fields" %}
-

@@ -4,7 +4,7 @@ Let's consider a flow where your ops or support team updates the status of a use
 
 ## Set up the "Refresh component" action
 
-Let's look at the workflow of changing a customer's status that we've mentioned above. In this flow, the primary [action](user-guide/data/actions) changes the status field in the corresponding collection and has already been configured. Now you have to set the action that will be triggered after successful completion of the primary action. That action will immediately change the status field in the chosen component. The succession of the steps to set it up will be the following:
+Let's look at the workflow of changing a customer's status that we've mentioned above. In this flow, the primary [action](user-guide/design-and-structure/actions) changes the status field in the corresponding collection and has already been configured. Now you have to set the action that will be triggered after successful completion of the primary action. That action will immediately change the status field in the chosen component. The succession of the steps to set it up will be the following:
 
 1. Go to **After Completion** section
 2. Navigate to **When action succeeded** and click **Success action**

@@ -8,7 +8,7 @@ When a token is issued to Jet Admin from your selected service, that token can o
 
 # Step by Step how to use the Jet Admin OAuth 2.0 form
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-M9pQm8v8Qk35xFn4XNd%2F-M9pTOzHbxxjlqTutamd%2FGIF.gif?alt=media&token=7e86137f-74cb-4f71-8fa5-99b0d72c83da)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZaJRsxEiaJQ_0OhvM%2Ftestgif14.gif?alt=media&token=94cf1e4b-dfc6-449d-90d0-db5c9451cc61)
 
 ## Step 1: Sign up an application to generate your OAuth credentials
 
@@ -55,5 +55,5 @@ Fill in all necessary fields and click on the **Add Resource** button.
 
 Now you're done with OAuth 2.0 and ready to use it with Jet Admin. Here you can see an example of authentication with Google OAuth 2.0.
 
-{% page-ref page="user-guide/project-settings/google-oauth-2.0" %}
+{% page-ref page="user-guide/security-and-privacy/sign-in-sign-up/google-oauth-2.0" %}
 

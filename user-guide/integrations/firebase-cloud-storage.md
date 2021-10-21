@@ -20,7 +20,7 @@ Select Firebase Storage from the list of available storage options, upload the J
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MWPTvbPDMAbsJaFXHMo%2F-MWQ2BK8D9ktvP9t8p0Z%2Fimage.png?alt=media&token=1693bead-ba2f-432f-a725-0a5d3e8522c7)
 
-Here's an example of JSON Service Key obtained from Firebase:
+Here's an example of a JSON Service Key obtained from Firebase:
 
 ```javascript
 {

@@ -62,9 +62,7 @@ http://localhost:8000/jet_api/register/
 JET\_CORS\_HEADERS = False
 {% endhint %}
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEFPTaBUe_4giOPDC4_%2FGIF.gif?alt=media&token=0fece3a0-800a-4ef9-b5ad-959923e197d4)
-
-## Common problems
-
 {% page-ref page="jet-bridge-deployment/jet-admin/common-problems" %}
+
+
 

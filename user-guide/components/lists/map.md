@@ -1,6 +1,6 @@
-## What is Map?
+## Map component
 
-The map component allows you to see locations of your items or team members \(couriers\). For instance, you can track your delivery team and vehicles' location.
+The map component allows you to view and interact with data that has geographical values:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEX2NqPG52JNlmGGhKc%2F-MEXDHzLEa_0SVgxxqyS%2Fimage.png?alt=media&token=f2528e31-490e-4318-83ce-ffeb2f0a1118)
 

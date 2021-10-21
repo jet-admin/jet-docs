@@ -1,6 +1,6 @@
 Integrate our [Jet Bridge](jet-bridge-deployment/jet-admin) plugin with Docker installation in one command. You can place it behind your VPN, in your own VPC, and works locally. We won’t get access to your data, however, you will still receive updates normally.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEATPYmRPkKrbdBF-ss%2F-MEAU0_SZcU_GYa4Eh0l%2Fimage.png?alt=media&token=df27931d-7909-43bb-8cd1-656435690691)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZCzj7QHzxHbxGWEjl%2Fimage.png?alt=media&token=18572d4a-ed7d-4210-b312-6538206b4298)
 
 ### Requirements:
 

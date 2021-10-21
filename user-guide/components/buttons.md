@@ -2,7 +2,7 @@ Buttons are the execution of any action. For example, you can create buttons to 
 
 ## Adding button
 
-To add a button, you need to go to Visual Builder and simply drag and drop the Action to the page, specify the button name and action type. More information about types of [Actions](user-guide/data/actions).
+To add a button, you need to go to Visual Builder and simply drag and drop the Action to the page, specify the button name and action type. More information about types of [Actions](user-guide/design-and-structure/actions).
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEUtMJVAaE1DWkQXaRb%2F-MEUzq8iVpvbR6JqzBpf%2FGIF.gif?alt=media&token=1aaa9f52-17f3-4546-a11c-b9be59c1dea4)
 
@@ -14,5 +14,5 @@ For example, you want to add a button that will send emails. To do this, select 
 
 More information about Actions.
 
-{% page-ref page="user-guide/data/actions" %}
+{% page-ref page="user-guide/design-and-structure/actions" %}
 

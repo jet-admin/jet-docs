@@ -27,7 +27,9 @@ A GraphQL query for a movie listings app might look something like this:
 
 To connect GraphQL to JetAdmin, add a new resource from the settings and select GraphQL or select GraphQL as the resource when creating a new project.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEATPYmRPkKrbdBF-ss%2F-MEAVOFF4g25gq8s82JV%2Fimage.png?alt=media&token=3145497b-4998-40ff-bee5-71d65283ef68)
+
+
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZDXsEBzZTuXAkp_Zx%2Fimage.png?alt=media&token=b3d3b3df-0908-420f-9c05-872a7434a72d)
 
 Then, enter your API endpoint in the **Base URL** field. Base URL example: 
 
@@ -35,7 +37,7 @@ Then, enter your API endpoint in the **Base URL** field. Base URL example:
 https://rickandmortyapi.com/graphql
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEF25PppwrA56qG8VfX%2Fimage.png?alt=media&token=05f3c209-f0b2-4007-8743-893dc7298078)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZbpDoywpOsDY4ZDUX%2Fimage.png?alt=media&token=04f6082f-930b-44c7-bcb6-c2eb964da41b)
 
 Depending on your API authentication settings, you may need to enter URL parameters or headers, or set the method via the [Authentication](user-guide/integrations/rest-api) dropdown.
 
@@ -62,7 +64,7 @@ You can display the results of GraphQL queries as with any other query in Jet Ad
 }
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-ME-iIaphZMtnaaHk2WV%2F-ME-nqvLeHYkRZxlh5Dd%2FGIF.gif?alt=media&token=d0451ec8-ae32-4b5d-a6be-368e24e88379)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZcE0VucAy7u9OULRO%2Ftestgif15.gif?alt=media&token=81051de3-a51a-4d89-9fcf-92879679d8b4)
 
 More information about HTTP Requests in our documentation.
 

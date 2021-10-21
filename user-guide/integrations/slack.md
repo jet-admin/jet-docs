@@ -12,9 +12,9 @@ Once you select or create a new channel and create the webhook, you'll be presen
 
 Add Slack to an existing project or connect Slack as a resource when creating a new project. Copy your Webhook URL into Webhook URL field to connect the resource.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEFHsoJJjXugffGqH77%2FGIF.gif?alt=media&token=cc83059b-ebae-42d9-b832-9c1325716023)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjdF2FcdM0B__Yo_WAa%2F-MjdF7GQlNW1IHAnrxZ7%2Fimage.png?alt=media&token=3301023b-6da8-4603-981b-2dc53ca1ec7e)
 
-{% page-ref page="user-guide/data" %}
+
 
 
 

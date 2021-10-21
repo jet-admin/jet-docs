@@ -1,73 +1,38 @@
 To quickly connect a custom API use HTTP Request Builder. You can make `GET` request to visualizing orders data in Table component or `POST` request to reset a password for a specific user. 
 
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-Mjh4WH_3plDnw1Mr2q1%2F-Mjh4voR0KQJ3Hlq1UTt%2Fimage.png?alt=media&token=3260a4a8-3dfc-4d82-a13d-783a4deb02e5)
+
+Watch the video below on how to get API Builder set up!
+
 {% embed url="https://www.youtube.com/watch?v=ajqCp3uTb-o&ab\_channel=JetAdmin" %}
 
 
 
 ## Open API Builder
 
-1. Go to Component Settings then click `Add Data Source` 
+You can open the API Builder directly from the component simply by selecting the Rest API resource. The API Builder will be opened automatically in case you do not create any collections yet, otherwise you will need to select Make HTTP Request from the list of collections for your Rest API resource:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_mF4DBM_mAAf-m13M%2F-MG_oVr5n_BSODLyTPPM%2FGIF82.gif?alt=media&token=eea727d5-0cbc-4d71-bcde-74fa7341f1cd)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-MjeczoFF0YERqnV7vL3%2Ftestgif38.gif?alt=media&token=3d14016b-81bd-45e9-ada6-6cb5782a34dc)
 
-2. Choose Resource – [Rest API](user-guide/integrations/rest-api) then choose Collection – `Make an HTTP request`
+## Pass Values to API Builder
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_mF4DBM_mAAf-m13M%2F-MG_otPHbSZtKiUL2OUb%2FGIF83.gif?alt=media&token=ea96bf4a-8e20-4e6d-a19a-73eed81909cd)
+To pass [Values](user-guide/parameters) to **API Builder**, such as `charge` you need to specify **Inputs**.
 
-## Pass parameters
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-MjefXqit0bVQoQhOsui%2Ftestgif39.gif?alt=media&token=39e6d7ae-9e38-40ef-b60f-f591cdb706a4)
 
-To pass [parameters](user-guide/data/parameters) from API Query Builder, such as `customer id` you need to specify it as a parameter.
+## Visual Response Transformer
 
-* Go to Parameters then click +Add Field
+You can transform the data from the response with a Visual Response Transfomer:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGcPbu1qIXnhKLjP7VU%2F-MGcTHdYOucVZsPHBi1e%2FGIF141.gif?alt=media&token=f2803709-425e-477a-82af-baaae0d2e275)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-MjegEFlOmU7YJNhGDdb%2Ftestgif40.gif?alt=media&token=15b397a0-aac6-477c-ad7b-9d51ccaad25d)
 
-* Specify Parameter type \(for example, Number Field for ID parameter or Text Field for Email parameter\)
+## JavaScript Response Transformer
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGcPbu1qIXnhKLjP7VU%2F-MGcTw8mEKMFvjMuCRKN%2FGIF142.gif?alt=media&token=a2da39dc-2c9f-434e-b959-3883ac2b2b11)
+If you need custom transformation you can use a JavaScript response transformer. The`data` is a JS variable that stores a response from your request. Javascript transformation:
 
-* Mark as Required \(if you need to make this field required\)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-MjeggjKodSSv8yV-_bg%2Ftestgif41.gif?alt=media&token=77d70c1f-db00-42d6-8376-ed3b533f2689)
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGcPbu1qIXnhKLjP7VU%2F-MGcUN0hE-lZyspSkzcn%2FGIF143.gif?alt=media&token=e4267869-072e-4ec2-86c0-5eb46777684e)
-
-* Specify query parameters
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGcPbu1qIXnhKLjP7VU%2F-MGcYMx_9q1_HdnSDb-3%2FGIF145.gif?alt=media&token=5046b2a6-6340-464d-a86b-591b7672a2ea)
-
-* Set `customer` value in Tokens and run query
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGaCnX1IjAQA86jco5F%2F-MGaKJPj0BZ9US2B6c_n%2FGIF110.gif?alt=media&token=7edd5910-f4f2-4e1d-82d3-b47a4126bb81)
-
-## Use app variable values in your request
-
-Tokens are app variables that store Jet's data. There are different type of tokens that you can use on your requests:
-
-* Parameters. When you create a new parameter it becomes available as tokens
-* Current User. User's account properties like email, id, token, etc. available in `Current User`. You can specify [custom properties]()\)
-* Pagination
-* Sorting
-
-You can specify default values for your tokens that will use in the request.
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEKJuv9iR030XmMuORf%2F-MEN5ryopH5Cb-6r5VhT%2FGIF.gif?alt=media&token=06e675fa-e098-4c25-a67c-fb33f9c36c95)
-
-## Transform a body of your request
-
-To transform a body before the request is performed you can specify `Body Transformer`.  You can modify your function's return value by adding a transformer. Use the identifier `data` for the return value and enter any expressions to modify the result, such as add a property or loop over the data set. 
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGe2XiA82wI-LireLzl%2F-MGeFdie-o041VuWxgkD%2Fimage.png?alt=media&token=5386dd6f-1f4c-4626-9c01-dc0534cc855e)
-
-```javascript
-return data['email'];
-```
-
-## Transform a response of your request
-
-For simple transformers, you can use `response nested keys` to transform the response:
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG_mF4DBM_mAAf-m13M%2F-MG_piPtvMIdriY7Uf_r%2FGIF84.gif?alt=media&token=2a6b22ad-4629-4026-9865-5de077b6d826)
-
-For more complex transformers, you can use a JavaScript response transformer. The`data` is a JS variable that stores a response from your request. You can find it in Advanced Settings:
+For example, you can use JS functions to parse the data:
 
 ```javascript
 function getProperties(data) {
@@ -86,21 +51,19 @@ function contactMapper(contactData) {
 return  data['deals'].map((x)=>contactMapper(x));
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGccOmyqfa9Yot3CWOP%2F-MGceo0PY_sXBDBvo9pk%2FGIF146.gif?alt=media&token=1e62d9e2-4eb9-4b1b-8894-c13fd78bcb24)
-
 ## Sorting your data
 
 You can sort all fields by ascending and descending value:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEXGnJxiDMMiiB9U_hu%2F-MEXIED-BkEPZqRYBlKg%2Fimage.png?alt=media&token=7e736d0a-fa76-4c76-8163-1d7970b452a8)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-Mjeh13QsTS31gOFNWy1%2Fimage.png?alt=media&token=6b28322e-d690-4123-8db7-df47ed45438f)
 
 ## Pagination
 
 APIs like to send data back in pages. By default, you only get 1 page. You will need to ask for more. In your API docs, there is probably a section called Pagination. 
 
-There are 3 types of pagination:  **page**, **offset**, and **cursor pagination**.
+There are 3 types of pagination: **page**, **offset**, and **cursor pagination**.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEN7lusGJUPDvMe9NsW%2F-MEO_ijjbBqchqx9MY6I%2Fimage.png?alt=media&token=e7706ce4-a4b2-47b6-8daf-1712793eacac)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-Mjeh7Tik3XOqATBsA_4%2Fimage.png?alt=media&token=8c69d74b-b8c6-4cd9-9f7a-5e100af4a5da)
 
 ## Page based pagination
 
@@ -120,7 +83,7 @@ $ curl https://api.intercom.io/users?page=0 \
 
 In API Builder that would be set up with these settings:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEN7lusGJUPDvMe9NsW%2F-MEPZPW39puCP5jppl1n%2Fimage.png?alt=media&token=69e64b60-70ee-43ea-bfb6-697cb09cafdb)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-MjehP__TaOg0tzuG1ac%2Fimage.png?alt=media&token=510011fb-9212-4eda-956d-8cb01fd8d181)
 
 ## Offset pagination
 
@@ -141,7 +104,7 @@ In Jet API Builder that would be set up with these settings:
 https://api.hubapi.com/v1/deals/v1/deal/paged?offset={{paging.offset}}&limit={{paging.limit}}
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MFjjEGPoN0wZB8n51aB%2F-MFjk-_repKhaD1USpso%2Fimage.png?alt=media&token=dd9277ae-aed1-4f30-972b-28c4d92657c8)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-MjehZ-rj12DLFeO5VIJ%2Fimage.png?alt=media&token=0acb47b8-ea1f-409d-884a-39d46ac03991)
 
 ## Cursor based pagination
 
@@ -151,9 +114,7 @@ For instance, **Stripe** sends back a URL as well as a cursor \(object ID\) to u
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEN7lusGJUPDvMe9NsW%2F-MEPWCcGwF8nrcBM8x5f%2Fimage.png?alt=media&token=6204ecaa-2a8e-48be-b752-d556e887a3b6)
 
-You can send this in two ways. Either use the cursor or use the full URL. If you use the cursor, you need to send it in a parameter:
-
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEN7lusGJUPDvMe9NsW%2F-MEPT8PmNmtUSVj_jZJ7%2Fimage.png?alt=media&token=5bc3d948-684a-47c9-b99b-f83cfab19511)
+You can send this in two ways. Either use the cursor or use the full URL. If you use the cursor, you need to send it in a parameter.
 
 For instance, Stripe API in Jet API Builder that would be set up with these settings:
 
@@ -161,5 +122,5 @@ For instance, Stripe API in Jet API Builder that would be set up with these sett
 https://api.stripe.com/v1/customers?limit={{paging.limit}}&starting_after={{paging.cursor_next}}&ending_before={{paging.cursor_prev}}
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEN7lusGJUPDvMe9NsW%2F-MEPUVOy2EN8ti90PI6Y%2Fimage.png?alt=media&token=c84361af-91d1-4ce1-8c78-28331dc6dc40)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjeajOjNWzJRcYkJVpo%2F-MjehsUdpDGygv5JTn4M%2Fimage.png?alt=media&token=db8dbaa5-a8f5-4561-bd9e-963cbd1ca317)
 

@@ -1,6 +1,6 @@
 ## **Where is my data stored, and is it secure?**
 
-Yes, your data is secure, and is always stored by you. We provide Jet Bridge that makes our architecture  secure. Jet Bridge is a free and open**-**source app that **generates an API** and proxies the requests to databases and business apps. We don’t collect or host your private data on our side. Jet encrypts all data and credentials that go through our servers using an HTTPS connection.
+Yes, your data is secure and is always stored by you. We provide Jet Bridge that makes our architecture  secure. Jet Bridge is a free and open**-**source app that **generates an API** and proxies the requests to databases and business apps. We don’t collect or host your private data on our side. Jet encrypts all data and credentials that go through our servers using an HTTPS connection.
 
 {% page-ref page="jet-bridge-deployment/cloud" %}
 
@@ -14,9 +14,7 @@ If your infrastructure doesn't have access to the internet, you can use on-premi
 
 # Built-in Security-Grade Features <a id="built-in-security-grade-features"></a>
 
-## Enforced two-factor authentication <a id="enforced-two-factor-authentication"></a>
 
-Is there such a thing as too much security? Definitely not when it comes to your company’s private data. In Jet, you can additionally secure your workspace by setting up enforced two-factor authentication for each team member. Once the feature is activated, every time someone tries accessing your admin panel, they will be asked to verify the login attempt by typing in a security code sent to either their mobile phone or email.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGOKqrFcjeSkw6nnATM%2F-MGOTQCiboON-jtHpvcw%2Fimage.png?alt=media&token=4ce3939d-e11c-4259-b658-545fac7107d0)
 

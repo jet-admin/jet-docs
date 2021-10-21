@@ -1,6 +1,6 @@
 Integrate our [**Jet Bridge**](https://app.gitbook.com/@jetadmin/s/doc/~/drafts/-M9TnCmHUbdvDWPtOccj/jet-bridge-deployment/install) ****plugin with Python installation. You can place it behind your VPN, in your own VPC, and works locally. We won’t get access to your data, however, you will still receive updates normally.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEATPYmRPkKrbdBF-ss%2F-MEAU411zIDYp5ah7It7%2Fimage.png?alt=media&token=3033dde5-2082-41b2-ab10-c38a96b1e8cd)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZDAnqL4DrfAe8ZOPy%2Fimage.png?alt=media&token=5da62cf8-e625-439f-9628-c0ccc09ed4d9)
 
 ### Requirements:
 

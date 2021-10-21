@@ -1,10 +1,10 @@
-**Jet Admin** can help you make your tool make requests to any **Rest API** you need to integrate to your workflow. The integrations Jet provides are ready-to-use business APIs such as [Stripe](user-guide/integrations/stripe), [SendGrid](user-guide/integrations/sendgrid), [Zendesk](user-guide/integrations/zendesk), [Slack](user-guide/integrations/slack), etc. \(To reduce the time to get your internal tool talking to a Rest API to the minimum, use the [Templates](user-guide/design-and-structure/templates)\). To have the  available APIs at hand, select Resources from the project menu to open the resource selection pane:
+**Jet Admin** can help you make your tool make requests to any **Rest API** you need to integrate to your workflow. The integrations Jet provides are ready-to-use business APIs such as [Stripe](user-guide/integrations/stripe), [SendGrid](user-guide/integrations/sendgrid), [Zendesk](user-guide/integrations/zendesk), [Slack](user-guide/integrations/slack), etc. \(To reduce the time to get your internal tool talking to a Rest API to the minimum, use the [Templates]()\). To have the  available APIs at hand, select Resources from the project menu to open the resource selection pane:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEATPYmRPkKrbdBF-ss%2F-MEAUEZ8Bn75L0MwdYFe%2Fimage.png?alt=media&token=254f2711-809b-4d59-add0-f5764108056d)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZDXsEBzZTuXAkp_Zx%2Fimage.png?alt=media&token=b3d3b3df-0908-420f-9c05-872a7434a72d)
 
 You can also implement your own custom API using API Builder. For instance, you can set up a `GET` request to [display orders your customers made](getting-started/part-2-intermediate/perform-api-requests) or a `POST` request to reset a password for a specific user.  
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEATPYmRPkKrbdBF-ss%2F-MEAUW6CR7GtbMWrEMUE%2Fimage.png?alt=media&token=9357097f-8be5-4018-aa20-dfedac7865c9)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZVvG9K5ZfSoInml1f%2Fimage.png?alt=media&token=a7a3a486-e420-4624-b478-c532e6cd28d8)
 
 {% page-ref page="user-guide/data/make-an-http-request" %}
 

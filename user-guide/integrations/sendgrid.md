@@ -14,7 +14,7 @@ After you have successfully created the Key API, store it somewhere safe because
 
 Add SendGrid to an existing project or connect SendGrid as a resource when creating a new project. Copy your Secret API Key into the API  Key field to connect the resource.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEF4N7bDOQRU3CQh9bF%2FGIF.gif?alt=media&token=139698f7-5092-4d8b-ad19-a2a78bdd85fe)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjdCLE41J86itvQY858%2F-MjdEASuqiKeCTiB2fan%2Fimage.png?alt=media&token=6f8552c5-043d-4a0d-8109-6ef2b17b2422)
 
 {% page-ref page="user-guide/components/buttons" %}
 

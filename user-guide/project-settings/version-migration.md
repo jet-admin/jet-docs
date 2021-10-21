@@ -6,7 +6,7 @@ We are always trying to make version updates fully compatible so you don't need 
 
 **You can check your current Jet Admin version in Project Settings**
 
-![You can check your current Jet Admin version in Project Settings](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEOT1JJlkO0EEy1oPLm%2F-MEOUqxS_yUGmorctbhs%2Fimage.png?alt=media&token=599fabaa-20cf-4170-82fc-2715228e1716)
+![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-Mjht4amMr3L__IXIrDy%2F-MjhteCqF6W0JdsNk0yR%2Fimage.png?alt=media&token=525b393c-7783-44a9-8bad-4b715a0beb18)
 
 # Migrating from 1.x.x to 2.x.x
 
