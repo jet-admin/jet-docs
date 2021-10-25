@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Charts)
+[comment]: # ($page_description=Charts overview and customization)
+
 Charts let you display and track global KPIs on the dashboard as well as provide at-a-glance performance insights. It's the fastest way to create analytical reports on your data. 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEUTS5Cb65Kk4L2d8GI%2F-MEUeBzTK8f-99YlIwNc%2Fimage.png?alt=media&token=bcdf7907-3d01-470c-bfd2-86109dcd20cd)

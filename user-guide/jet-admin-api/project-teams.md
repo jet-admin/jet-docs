@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Teams API)
+
 {% api-method method="get" host="https://api.jetadmin.io" path="/api/projects/:PROJECT\_NAME/groups/" %}
 {% api-method-summary %}
 Get list of all project teams

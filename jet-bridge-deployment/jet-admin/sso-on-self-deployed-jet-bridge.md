@@ -1,3 +1,5 @@
+[comment]: # ($page_title=SSO on self-deployed Jet Bridge)
+
 If want SSO authentication flow to be done on your side you can configure Jet Bridge to process SSO authentication. It will also save SSO providers access tokens on Jet Bridge side in cookies \(instead of app.jetadmin.io by default\).
 
 ### 1. Deploy standalone Jet Bridge as described here

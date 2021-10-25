@@ -1,3 +1,6 @@
+[comment]: # ($page_title=🧰 Data Sources)
+[comment]: # ($page_description=Introduction how to connect your resources)
+
 Jet Admin connects a lot of resources you need to build your internal tools. A few of our integrations:
 
 * **Databases**: [PostgreSQL](user-guide/integrations/postgresql-integration), [MySQL](user-guide/integrations/postgresql-integration), [Microsoft SQL](user-guide/integrations/postgresql-integration), [Oracle](user-guide/integrations/postgresql-integration), [SQLite](user-guide/integrations/postgresql-integration), [Firebase](user-guide/integrations/firebase-firestore)

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Google SSO SAML2)
+
 Setting up **SSO** for your **Jet Admin** project requires your to set up **Custom Domain** for your project first.
 
 ## 1. Go to SSO Applications

@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Hubspot)
+[comment]: # ($page_description=Connect Hubspot to Jet Admin)
+
 # 1. Get Hubspot API Key
 
 First you need to sign up for [Hubspot](https://www.hubspot.com/) and create an account. Complete the account creation process to get started. Find and copy your API Key to connect Hubspot to Jet Admin.

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=🦄 Jet UI)
+
 A high-level walkthrough of the different parts of the builder environment. Here are the articles in this section:
 
 {% page-ref page="user-guide/jet-ui/builder" %}

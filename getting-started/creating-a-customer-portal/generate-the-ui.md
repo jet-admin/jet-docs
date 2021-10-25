@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Generate the App)
+
 ## Connect your Data Source
 
 After creating a project, you'll be prompted to start with Blank app or with your Data. Select the Data Source of your choice and fill in the credentials, then finish the process:

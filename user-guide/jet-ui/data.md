@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Data)
+
 ## Adding a new Resource
 
 You can add an unlimited number of resources from the available resources by going to the Data section:

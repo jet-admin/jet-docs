@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Fields)
+[comment]: # ($page_description=Fields overview)
+
 Fields are single record data obtained from your resources. By default, all fields from your resource will be rendered as a text, but you can switch to a more appropriate one.
 
 For example, you have a table of your customer's details, you can click on a record to see all available fields. All records from the same collection share the same fields. For example, each customer will have a specific `Firstname`, `Lastname`, `Email`.

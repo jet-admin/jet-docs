@@ -1,3 +1,6 @@
+[comment]: # ($page_title=🛠 Building an Internal Tool)
+[comment]: # ($page_description=Get your first internal app up and running in under 10 minutes)
+
 ## Custom CRM in 10 mins 🚀
 
 To familiarize yourself with how Jet works, let's build a simple CRM that will allow us to `View` and `Edit` the Customers:

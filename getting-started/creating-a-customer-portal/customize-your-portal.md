@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Customize your Portal)
+
 In Jet Admin you can **customize the appearance** of your Portal for better usability. Let's start with the `Projects` table.
 
 **Disable** unnecessary columns and **rearrange** the order:

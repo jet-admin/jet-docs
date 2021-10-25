@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Conditional Visibility)
+
 In Jet Admin, you can make certain components visible or invisible depending on the values or combination of values from your data or user attributes. 
 
 Say, we want to show two different status change `buttons` depending on the status value of the selected row of the `users` table:

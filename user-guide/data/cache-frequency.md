@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Cache Frequency)
+
 # How does data update in JetAdmin?
 
 Data that changes in JetAdmin is immediately synchronized with your database \(all your data is available to you in real time\).

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Firestore)
+
 Connect Jet Admin to Firebase's Admin API to create custom internal tools to manage your Firebase application.
 
 Once Firebase is added to Jet Admin, you'll be able to manage your users, query and update Firebase Real-time Databases as well as query Firestore.

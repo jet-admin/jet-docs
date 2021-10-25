@@ -1,3 +1,6 @@
+[comment]: # ($page_title=OAuth 2.0)
+[comment]: # ($page_description=How to connect to an API with OAuth 2.0 Authentication)
+
 OAuth 2.0 is a security standard that allows a user \(you\) to authenticate one service \(your API\) to interact with Jet Admin on behalf of the user.
 
 ## What is OAuth 2.0?

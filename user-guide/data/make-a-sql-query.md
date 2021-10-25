@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Making SQL queries)
+[comment]: # ($page_description=An overview of SQL request with PostgreSQL)
+
 To quickly configure the display of your data from a database, you can build SQL queries by selecting Custom SQL. 
 
 ## Open SQL Query Builder

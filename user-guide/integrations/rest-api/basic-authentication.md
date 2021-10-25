@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Basic Authentication)
+[comment]: # ($page_description=How to connect to an API with Basic Authentication)
+
 To enable **Basic Authentication** schemes, choose Basic Auth in the **Authentication** dropdown, and then provide the username and password.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEF0xskiG5S2ER9ac6l%2Fimage.png?alt=media&token=3c57b138-4938-4372-a503-e1161fefcdb8)

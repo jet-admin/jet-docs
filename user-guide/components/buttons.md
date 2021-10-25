@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Buttons)
+[comment]: # ($page_description=Buttons overview)
+
 Buttons are the execution of any action. For example, you can create buttons to execute: Copy to clipboard, Send an email, Open a link, Link to page and others.
 
 ## Adding button

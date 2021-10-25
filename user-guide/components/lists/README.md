@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Lists)
+[comment]: # ($page_description=Lists are UI components for displaying data from your collections)
+
 There are several ways how you can display the same collection in Jet Admin:
 
 * [Table](user-guide/components/lists/table) 

@@ -1,3 +1,6 @@
+[comment]: # ($page_title=🔤 Values)
+[comment]: # ($page_description=When we configure our app, we're constantly working with values and using them in different ways.)
+
 {% embed url="https://www.youtube.com/watch?v=r0yL\_CQh9J8&ab\_channel=JetAdmin" %}
 
 Your business data in Jet Admin apps are surfaced with components. Depending on the granularity level, a [component](https://app.gitbook.com/@jetadmin/s/doc/~/drafts/-MijlldWuqWYchvMUiLt/user-guide/components) can range from a table to a field in a table.‌

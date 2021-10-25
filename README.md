@@ -1,3 +1,6 @@
+[comment]: # ($page_title=👋 Welcome)
+[comment]: # ($page_description=Glad to have you on board!)
+
 # What is Jet Admin?
 
 Jet Admin is an **app builder** that allows you to create **Client Portals**, **Business Apps**, and **Internal Tools** with your **existing data**, whether it's from DBs, APIs, or Storages. You can build apps such as `Onboarding apps`, `Admin Panels`, `Vendor portals`, `CRMs`, and much more really fast and without code.

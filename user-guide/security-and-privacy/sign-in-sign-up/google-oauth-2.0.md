@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Google SSO OAuth 2.0)
+[comment]: # ($page_description=Step-by-step guide to authentication with Google OAuth 2.0)
+
 If you want to use Google services such as Google Sheets, Google Drive, Google Cloud and many others, this step-by-step guide can help you with **Google OAuth 2.0** authentication.
 
 Once you have created the project and selected the Rest API resource, you also selected the [OAuth 2.0](user-guide/integrations/rest-api/oauth-2.0) authentication method - you need to select a provider.

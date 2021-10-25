@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Realtime Database)
+
 The process of integrating Realtime Database with JetAdmin is identical to the integration with Firestore.
 
 {% page-ref page="user-guide/integrations/firebase-firestore" %}

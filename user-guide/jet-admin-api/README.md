@@ -1,3 +1,5 @@
+[comment]: # ($page_title=🛫 Jet Admin API)
+
 Jet Admin has its own API to manage users and teams.
 
 ## Get a token

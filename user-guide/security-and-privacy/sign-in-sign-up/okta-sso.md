@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Okta SSO)
+
 ## 1. Go to SSO Applications
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-M0UJ1ZdHOf7P2oavvqy%2F-M0UKeS9Ky35jgU28qnx%2Fimage.png?alt=media&token=082e8e48-c23f-487d-83c2-3c69f3d119d2)

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Link Related Tables)
+
 You can **link different tables** as long as there's a common field in both of them. In our case, we'll link by the `Project name` field.
 
 {% hint style="info" %}

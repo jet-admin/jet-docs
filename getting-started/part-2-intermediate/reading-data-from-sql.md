@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Reading data from SQL)
+
 Let's say, we need to display order total amount on `Customer` table for each customer. All Orders we stored in the separate `Orders` table in the SQL database. 
 
 The result`Customers`table contains: `customer_id`, `photo`, `name`, `total_amount`columns of data for each customer.

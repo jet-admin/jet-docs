@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Column Values)
+
 To send an email, you need to specify such Values as the recipient's email, subject, and body. You have different options to do it: 
 
 1. Ask the user to fill the form in your App

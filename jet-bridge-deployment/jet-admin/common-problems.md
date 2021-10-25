@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Common Problems)
+
 ## CORS issue
 
 If you are deploying **Jet Bridge** behind a proxy or some webserver you can start receiving the following errors in your browser console:

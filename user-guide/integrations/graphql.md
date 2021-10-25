@@ -1,3 +1,6 @@
+[comment]: # ($page_title=GraphQL)
+[comment]: # ($page_description=Connect Jet Admin to any GraphQL API)
+
 GraphQL is an API design architecture that takes a different, more flexible approach. The key difference between GraphQL vs REST is that GraphQL doesn’t deal with dedicated resources. Instead, everything is regarded as a graph implying it’s connected.
 
 What this means in practical terms is that you can tailor your request to match your exact requirements using the GraphQL query language. In addition to this, it lets you combine different entities into a single query.

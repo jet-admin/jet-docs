@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Link Components)
+
 To create custom **user flows** in your app, you need to be able to pass values between components. For this, Jet Admin has the `Formulas` modal window, where you can map the components:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MibVvskqBYKMjIK3SFW%2F-Mibc7lUHF6PCHCEhazj%2FScreenshot%20%2831%29.png?alt=media&token=1236731f-09f7-4b3b-ac24-6f603f28ee58)

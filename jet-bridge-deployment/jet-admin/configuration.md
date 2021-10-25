@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Configuration)
+
 # Setting up your configuration
 
 You can specify **Jet Bridge** configuration through one of the following methods:  

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Users API)
+
 {% api-method method="get" host="https://api.jetadmin.io" path="/api/projects/:PROJECT\_NAME/users/" %}
 {% api-method-summary %}
 Get list of all project users

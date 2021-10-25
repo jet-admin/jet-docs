@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Text)
+[comment]: # ($page_description=An overview of static elements)
+
 Text or title is a static item that you can specify, for example, to put a title **Statistics** by simply drag-and-drop the item to the page.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MGbgJrygA6idGw37NGW%2F-MGbiEwSLG-b8CCvXgwf%2FGIF125.gif?alt=media&token=a8f23228-8afd-4c24-9ee5-012a89cd683f)

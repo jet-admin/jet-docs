@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Publish your App)
+
 After you've made the changes to your app, you can **preview it** to test and, if everything's right, **publish it**. To preview your app, click on the `Preview` button at the top:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MicLDrQTPP5T-bZ5sS6%2F-MicNyhLYlQX-jlchnXR%2Ftempsnip.png?alt=media&token=a77748ab-9ffe-4194-9ba5-38dc2b635d0e)

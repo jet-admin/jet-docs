@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Gallery)
+[comment]: # ($page_description=Gallery overview as a component)
+
 A gallery is great for displaying your items in a visually appealing and easy to comprehend way. 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEUTS5Cb65Kk4L2d8GI%2F-MEUXNeBh1w66d2Pgil0%2Fimage.png?alt=media&token=08a4ca9d-d341-40db-8c38-ba5450e53f7b)

@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Roles in Permissions)
+[comment]: # ($page_description=Setting up and managing teams)
+
 To limit access to data you can create different teams like Customer Support that has access to Tickets, or Sales Team has access to customers, orders, etc. You can create multiple teams with different Roles \(**Administrator**, **Editor,** or **Read-only**\).
 
 {% embed url="https://www.youtube.com/watch?v=lUv\_wfNfKR8&ab\_channel=JetAdmin" %}

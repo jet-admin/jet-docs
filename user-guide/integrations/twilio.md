@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Twilio)
+[comment]: # ($page_description=Connecting Twilio to Jet Admin)
+
 ## 1. Get Twilio Access Keys
 
 First you need to sign up to [Twilio](https://www.twilio.com/). Your Dashbroad will automatically open when you complete the sign up process. Get your Account SID and Auth Token.

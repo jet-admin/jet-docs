@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Kanban)
+[comment]: # ($page_description=Kanban overview as a component)
+
 A kanban board is often used to simplify and visualize complex processes, for example, user onboarding or shipping.
 
 **Kanban Cards** – This is the visual representation of tasks. Each card contains information about the task and its status such as dish name, the dish is being cooked, the dish is ready, etc.

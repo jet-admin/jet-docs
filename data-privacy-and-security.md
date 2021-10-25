@@ -1,3 +1,5 @@
+[comment]: # ($page_title=🔐 Data Privacy & Security)
+
 ## **Where is my data stored, and is it secure?**
 
 Yes, your data is secure and is always stored by you. We provide Jet Bridge that makes our architecture  secure. Jet Bridge is a free and open**-**source app that **generates an API** and proxies the requests to databases and business apps. We don’t collect or host your private data on our side. Jet encrypts all data and credentials that go through our servers using an HTTPS connection.

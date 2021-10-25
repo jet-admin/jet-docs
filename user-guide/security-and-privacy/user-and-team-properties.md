@@ -1,3 +1,5 @@
+[comment]: # ($page_title=User-specific Permissions)
+
 The User and Team properties are useful for the scopes feature: they allow you to group users \(not teams\) and control the data they can see.
 
 ## User & Team Properties

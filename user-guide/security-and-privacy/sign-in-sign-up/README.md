@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Sign In/Sign Up)
+
 JetAdmin has a built-in **User Management System**. All invited users to your application \([invited by email](user-guide/security-and-privacy/sharing-your-app#invite-by-email), [invited by link](user-guide/security-and-privacy/sharing-your-app#invite-by-link)\), will be available in the **Users** tab:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MkG1RiPTKWfDYvDfjhH%2F-MkGEHot5nG8OvQolJvX%2Fimage.png?alt=media&token=c9115450-d126-47c4-b8f9-86da217a2c38)

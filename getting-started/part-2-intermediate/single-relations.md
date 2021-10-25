@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Single relations)
+
 **Single relations** help you fetch data from the **related collections**. 
 
 To illustrate how it works, let's imagine we have the `Transactions` table that doesn't contain a **customer's email** and the `Users` table that contains the customer information including the email:

@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Zendesk)
+[comment]: # ($page_description=Connecting Zendesk to Jet Admin)
+
 ## 1. Get Zendesk API Token
 
 First you need to sign up for [Zendesk ](https://www.zendesk.com/)and create an account. Complete the account creation process to get started. 

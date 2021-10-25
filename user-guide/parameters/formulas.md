@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Computed Values)
+[comment]: # ($page_description=Access values for the current item)
+
 A formula is a method to access every piece of data and build up to as complicated a data flow pattern as you need it to be. You can combine, modify or calculate the values, or you can even pull up an access control system based on logical conditions set by an appropriate formula.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjgtXzTjBj2m2d5c1pE%2F-MjgtmmSDLovPSqFwO8M%2Ftestgif46.gif?alt=media&token=f3b512ee-0c52-40a8-afa0-dbfbf85a7973)

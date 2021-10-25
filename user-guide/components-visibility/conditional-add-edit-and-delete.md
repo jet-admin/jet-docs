@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Conditional read, add, edit & delete)
+[comment]: # ($page_description=Set conditions on who and what can be added, edited or deleted)
+
 Allowing users to add, edit & delete records can be very powerful, but sometimes you want to restrict this to only certain Pages or to certain Teams/Users. With conditional add, edit & delete you can do this.
 
 To do this, you need to go to the Permissions tab of the specific Team settings to set up granular access to each page in the application:

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=HTTP requests API)
+
 {% api-method method="post" host="https://" path="api.jetadmin.io/api/proxy\_request/" %}
 {% api-method-summary %}
 Send request through Jet Admin proxy

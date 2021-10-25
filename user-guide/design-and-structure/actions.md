@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Actions)
+[comment]: # ($page_description=A detailed overview of the types of Actions.)
+
 Action is an operation that you can perform in Jet Admin. Visually, the action is a button in the Jet Admin interface.
 
 To add an action you need to select a Button component and drag-and-drop it on the page.

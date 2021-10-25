@@ -1,3 +1,5 @@
+[comment]: # ($page_title=🙌 Join the Community)
+
 **Join the community here →** [**https://community.jetadmin.io/**](https://community.jetadmin.io/)\*\*\*\*
 
 The community is where you can meet, get help & support, share resources and discuss what you're working on. The community is filled with thousands of kind and friendly users – many of them experts – who are willing to help each other out. 

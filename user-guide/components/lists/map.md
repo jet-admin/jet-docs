@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Map)
+
 ## Map component
 
 The map component allows you to view and interact with data that has geographical values:

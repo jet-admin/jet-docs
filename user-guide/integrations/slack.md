@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Slack)
+[comment]: # ($page_description=Connecting Slack to Jet Admin)
+
 ## 1. Create Slack Webhook
 
 First you need to sign up for [Slack](https://slack.com/) and create an account. Complete the account creation process to set up an [Incoming Webhook](https://my.slack.com/apps/new/A0F7XDUAZ-incoming-webhooks) in Slack: 

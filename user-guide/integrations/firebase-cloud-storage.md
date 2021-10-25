@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Firebase Cloud Storage)
+
 Before you can use Firebase Cloud storage, you need to obtain a service token key. Follow the steps below to integrate Firebase storage with Jet.‌
 
 ## Get Firebase Storage JSON Key <a id="1-get-firebase-key"></a>

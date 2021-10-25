@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Users & Permissions)
+
 The key functionality of any Portal is that any user or groups of users see and interact **only with their data**. In this step, we'll invite our users and set permissions to turn our Airtable app into a **secure portal**.
 
 ## Invite Users

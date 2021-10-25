@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Filter)
+
 ## Filter your collection
 
 Filter your data with automatically generated filters:

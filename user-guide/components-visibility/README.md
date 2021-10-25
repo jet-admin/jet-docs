@@ -1,3 +1,6 @@
+[comment]: # ($page_title=🔀 Conditions)
+[comment]: # ($page_description=Hide or show things based on different conditions)
+
 Conditions help you implement condition-based editing and data access, and set the component visibility. 
 
 Component Visibility rules allow you to create rules to determine whether a given component is visible \(and able to be interacted with\). For example, you can place several buttons in the same place and then create different visibility rules to determine which one appears for each User or Team in your app.

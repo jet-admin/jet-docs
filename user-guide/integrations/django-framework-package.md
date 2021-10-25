@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Django)
+[comment]: # ($page_description=Connecting Django to Jet Admin)
+
 To integrate Jet Admin with your Django project you need to install the [Jet Bridge](jet-bridge-deployment/jet-admin) ****package. It will work even with your local application on localhost. Jet Bridge is an open-source plugin available on [Github](https://github.com/jet-admin/jet-bridge). ****It will connect to your database and link Jet Admin with your project. 
 
 {% page-ref page="jet-bridge-deployment/jet-admin" %}

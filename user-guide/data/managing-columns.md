@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Managing Columns)
+
 ## Change the column data type
 
 Change the data type for each column in your component. For example, display the URL of a picture as an image:

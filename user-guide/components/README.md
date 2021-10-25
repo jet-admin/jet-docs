@@ -1,3 +1,6 @@
+[comment]: # ($page_title=🧩 Components)
+[comment]: # ($page_description=Components are UI elements inside Jet Admin that can be used to visualize and interact with your data)
+
 ## Setting the Layout
 
 **Layout** components allow you to assemble other components on the page. We recommend starting with the `columns` component - just drag-and-drop it on the page:

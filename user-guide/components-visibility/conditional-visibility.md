@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Conditional Visibility)
+
 When you build an interface you want to be available both for your customers and users who support them, you might also want to set visibility for components that should only be available to either your support team or your users. We provide a Visibility feature that can be assigned for any component.
 
 Component Visibility rules allow you to create rules to determine whether a given component is visible \(and able to be interacted with\). For example, you can place several buttons in the same place and then create different visibility rules to determine which one appears for each User or Team in your app.

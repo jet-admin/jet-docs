@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Builder)
+
 To build your business app Jet provides a Visual Builder that helps you create Pages and customize, organize any components \(table, button, charts, actions, etc\).
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjYz_yH3kEN7-VNL7z9%2F-MjYzhiSkY_2wkD-Mvgc%2Ftestgif.gif?alt=media&token=6852e0bd-3eb9-4632-adce-bdeaba49b7e1)

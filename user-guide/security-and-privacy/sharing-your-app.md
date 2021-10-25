@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Sharing your app)
+
 In JetAdmin you can choose how users will access your application: **Invite by email** or **Public Access via link**.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjjLE2Ec2dPbZETnpot%2F-MjjN16cx2Jc2jbksJhw%2Ftestgif69.gif?alt=media&token=b0f889a9-f17e-42da-8831-3232f075f334)

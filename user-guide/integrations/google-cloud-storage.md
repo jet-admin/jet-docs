@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Google Cloud Storage)
+
 Before you can use Google Cloud Storage storage, you need to set it up properly. Follow the steps below to integrate GC Storage with Jet.
 
 ## Get Google Cloud credentials

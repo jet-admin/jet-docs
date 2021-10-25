@@ -1,3 +1,5 @@
+[comment]: # ($page_title=🪂 Other Features)
+
 {% page-ref page="user-guide/project-settings/manage-your-subscription" %}
 
 {% page-ref page="user-guide/project-settings/configuring-a-custom-domain" %}

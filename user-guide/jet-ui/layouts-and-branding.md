@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Layout & Branding)
+[comment]: # ($page_description=Set up custom branding and configure the menu)
+
 The menu is a key part of your app's interface where you can navigate between pages. Here's the structure of a menu in Jet:
 
 1. **Navigate between pages.** Here you can navigate between pages and sections.

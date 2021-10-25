@@ -1,3 +1,6 @@
+[comment]: # ($page_title=⛺️ Database Heroku deployment)
+[comment]: # ($page_description=Step-by-step guide to deploying a PostgreSQL database on Heroku.)
+
 Once you have created the project, connected the resource, and selected the [Instant Cloud](user-guide/integrations/postgresql-integration/instant-cloud) deployment method you need to deploy your database on hosting.
 
 In this step-by-step guide, we'll take a closer look at the complete database deployment process on [Heroku](https://www.heroku.com/).

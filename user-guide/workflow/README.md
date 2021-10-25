@@ -1,3 +1,6 @@
+[comment]: # ($page_title=⚙️ Workflow)
+[comment]: # ($page_description=Automate tasks like sending an email to a user when their order status changes or payment goes through)
+
 As the company is growing and the roles are diversifying, the need for some sort of a task management system for your internally-facing applications is increasing. So we came up with the **Approval Workflow** feature.
 
 {% page-ref page="user-guide/workflow/task-approval" %}

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Image)
+
 You have a customers table and you need to display a customer's photo, then need to specify the Image type. You can set up a custom cloud provider as well as for File type.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MFeilMy_fVmiZK9xZlP%2F-MFf-IbuBDp_eX2jW6Rq%2FGIF.gif?alt=media&token=9a6b2b60-aa80-4b01-8159-9df1ba89089a)

@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Timeline)
+[comment]: # ($page_description=Timeline overview as a component)
+
 A timeline is a list that depicts how a set of resources are used over time. If you're managing a software project and want to illustrate who is doing what and when, or if you're organizing a conference and need to schedule meeting rooms, a timeline is often a reasonable visualization choice.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEUTS5Cb65Kk4L2d8GI%2F-MEU_wiGnrGm-DxYGHtY%2FGIF.gif?alt=media&token=7722fea6-2d94-4bc4-b803-8b16641a5490)

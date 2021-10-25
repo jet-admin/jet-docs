@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Connect your Data)
+
 You can build apps with your data from pretty much **Any Data Source**: `Firebase, Sheets`, `Airtable`, `Stripe`, `REST API`, and so on. We'll use Sheets in our example:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MiaqdZo6JYbOLdiT0C2%2F-Miar81CgxiG3yYQF6N5%2Fimage.png?alt=media&token=343c26cd-8ce9-4bb4-a85c-7f8cf325743a)

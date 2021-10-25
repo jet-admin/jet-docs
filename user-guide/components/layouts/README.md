@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Layouts)
+[comment]: # ($page_description=Containers overview)
+
 Containers help you organize your page structure. For instance, you need to structure the data on the page into columns or sections.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEV-pt3-cIc8DaX5C_Q%2F-MEV0Dsb346jIPmtFr-b%2FGIF.gif?alt=media&token=9e593804-ae04-4877-bd0e-9dd4144feb67)

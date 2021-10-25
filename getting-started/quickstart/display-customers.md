@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Display Customers)
+
 ## Display Customers
 
 Firstly, drag and drop the `Table` component. Then select the **Data Source** that you've connected and the **collection** that you wish to display:

@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Component Actions)
+[comment]: # ($page_description=Allows to make changes visable instantly)
+
 Let's consider a flow where your ops or support team updates the status of a user. In that case, it makes a lot of sense for the changed values to be seen immediately after the action is executed. You can easily achieve that with the **Component Action**. The changes will be visible instantly after the button is clicked without having to refresh the page.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MW547845qWMpUmqYdHL%2F-MW8db72TNykEEwCoQ4U%2FGIF207.gif?alt=media&token=972d0cd4-0ffc-4d3d-a037-9ec5bffc8388)

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=🏎 Self-hosted)
+
 **Jet Bridge** is a free and open**-**source app that **generates an API** and proxies the requests to databases and business apps: \(PostgreSQL, Google Sheets, Stripe, etc\). It is ****available on [**Github**](https://github.com/jet-admin/jet-bridge)**.**
 
 * **We never access your private data.**  It transferred directly from a browser to your application.

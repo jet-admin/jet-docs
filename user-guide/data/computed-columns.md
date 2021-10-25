@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Computed Columns)
+
 You can create custom columns in a table to handle cases such as math operations on your data, parsing JSON fields, or creating conditions. Let's look at a few examples of how to use it:
 
 ## Example 1: Use formulas over your data

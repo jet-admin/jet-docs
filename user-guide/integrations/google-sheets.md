@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Google Sheets)
+[comment]: # ($page_description=Connecting Google Sheets to Jet Admin)
+
 ## 1. Add Google Sheets resource
 
 To add Google Sheet to your project, simply click on the icon in the resource list.

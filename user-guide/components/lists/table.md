@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Table)
+
 ## Table component
 
 Use `Table` component to view and interact with data from your collections:

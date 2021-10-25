@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Customizing Pages)
+[comment]: # ($page_description=Detailed review of pages in Jet Admin.)
+
 A Page is an interface element that can span across various use cases. Create pages from scratch or generate an Admin Panel to get your application ready in less than 2 minutes.
 
 ## Create a new page

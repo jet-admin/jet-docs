@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Reading data from API)
+
 For instance, you need to make your own API request, just choose `Make an HTTP request` as an operation. Let's look at an example of how to get a list of transactions. We are going to display a list of transactions in the table component with the Stripe API \(you can use any API\). 
 
 ## Make an API request using API Builder

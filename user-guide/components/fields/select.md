@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Select)
+
 Select field is ideal when you want to be able to select a single option from a predefined list of options. You can select the required option from the drop-down menu, or just type to narrow down the list of options. 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MG4eDOREo87b09XIs-C%2F-MG5RbWh6t5jlIRR55BK%2Fimage.png?alt=media&token=dcd67234-fd67-462d-a4f4-bc09bbeb7f31)

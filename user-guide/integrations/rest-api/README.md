@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Rest API)
+[comment]: # ($page_description=Connect Jet Admin to any REST API.)
+
 **Jet Admin** can help you make your tool make requests to any **Rest API** you need to integrate to your workflow. The integrations Jet provides are ready-to-use business APIs such as [Stripe](user-guide/integrations/stripe), [SendGrid](user-guide/integrations/sendgrid), [Zendesk](user-guide/integrations/zendesk), [Slack](user-guide/integrations/slack), etc. \(To reduce the time to get your internal tool talking to a Rest API to the minimum, use the [Templates]()\). To have the  available APIs at hand, select Resources from the project menu to open the resource selection pane:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZDXsEBzZTuXAkp_Zx%2Fimage.png?alt=media&token=b3d3b3df-0908-420f-9c05-872a7434a72d)

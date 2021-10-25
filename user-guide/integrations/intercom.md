@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Intercom)
+[comment]: # ($page_description=Connect Intercom to Jet Admin)
+
 # 1. Get Intercom Access Token
 
 Firstly, you need to sign up for [Intercom](https://www.intercom.com/) and create an account. Complete the account creation process to get started.

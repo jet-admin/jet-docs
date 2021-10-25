@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Database Integration)
+[comment]: # ($page_description=Connecting a database to Jet Admin.)
+
 To connect a database with **Jet Admin**, choose a database from the list of available integrations:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MjZ3LfsU1ZReomd0nUz%2F-MjZ5pHRwy0pJsstY7JP%2Fimage.png?alt=media&token=2aaf9671-d100-4d7e-b707-2ab7dda09472)

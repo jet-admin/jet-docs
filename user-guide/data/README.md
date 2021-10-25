@@ -1,3 +1,6 @@
+[comment]: # ($page_title=🧮 Data Editor)
+[comment]: # ($page_description=Configure how the users will interact with data)
+
 {% embed url="https://youtu.be/adS8L7XoQ0E" %}
 
 `Data` helps you to pull data from different [Resources](user-guide/integrations) and manage the Data. You can do different operations with your `Data`:

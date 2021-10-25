@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Environments)
+[comment]: # ($page_description=How Environments work in Jet Admin)
+
 Environments allow you to have multiple configurations of your project within Jet Admin. If you want to update the resource, add a new one, change the settings or alter the UI, you can do it safely in a separate environment, whether it's _staging_ or _dev_, and after the changes are reviewed and approved you can merge this new configuration into the _production_ version. You also can create separate environments to control the updates: test the update on the _staging_ environment and then push it into _production_.
 
 {% embed url="https://youtu.be/E3z8j3tBlbI" %}

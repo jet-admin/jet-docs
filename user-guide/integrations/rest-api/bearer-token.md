@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Bearer Token)
+[comment]: # ($page_description=How to connect to an API with Bearer Token Authentication)
+
 **Use API keys** if you expect developers to build internal applications that don’t need to access more than a single user’s data.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MEEy8r9TeZrjti2WcdH%2F-MEF1GgGDCjOsB9PWD3n%2Fimage.png?alt=media&token=3699ee28-94ec-43ef-bd9b-607999624f94)

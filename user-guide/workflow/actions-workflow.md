@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Actions Workflow)
+
 Let's assume a scenario where you would like to perform a specific action, e.g. immediately send an email to a user for whom you just changed the status.
 
 In JetAdmin you can create **Actions Workflow** that allow you to perform multiple actions immediately after performing the base action.

@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Auth0 SSO OAuth 2.0)
+
 ## 1. Go to SSO Applications
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-Mj0XZ1uwgtIRHAomVlJ%2F-Mj0YllfWnnHbYkvlzPs%2Fimage.png?alt=media&token=c01df8af-85c7-4635-9012-204b24748cef)

@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Amazon S3)
+[comment]: # ($page_description=Amazon Cloud Storage)
+
 In order to be able to use Amazon S3 storage in Jet, you need to set it up. Follow the steps below to successfully integrate S3 with Jet.
 
 ## Making a new S3 IAM user

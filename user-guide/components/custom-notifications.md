@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Custom Notifications)
+[comment]: # ($page_description=Customize the notifications)
+
 In Jet any action that's executed comes with the notification pop-up window, displaying different messages depending on the outcome. The typical success message looks like this:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-MW3aQQNlsHQtUBwgj3e%2F-MW4CDYqY2pt_w1O9ZSz%2Fimage.png?alt=media&token=59bd0fdb-3505-4852-9685-039c934cb8f1)

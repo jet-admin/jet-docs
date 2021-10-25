@@ -1,3 +1,6 @@
+[comment]: # ($page_title=Making API requests)
+[comment]: # ($page_description=An overview of HTTP request)
+
 To quickly connect a custom API use HTTP Request Builder. You can make `GET` request to visualizing orders data in Table component or `POST` request to reset a password for a specific user. 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LQ08RFAKZvFADEiXKFy%2F-Mjh4WH_3plDnw1Mr2q1%2F-Mjh4voR0KQJ3Hlq1UTt%2Fimage.png?alt=media&token=3260a4a8-3dfc-4d82-a13d-783a4deb02e5)

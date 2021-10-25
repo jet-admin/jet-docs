@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Customize your App)
+
 In Jet Admin you can customize the appearance of your app for better usability. Let's start with the `Table`.
 
 **Disable** unnecessary columns and **rearrange** the order:

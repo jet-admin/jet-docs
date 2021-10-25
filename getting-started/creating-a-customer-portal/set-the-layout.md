@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Set the Layout)
+
 Jet Admin provides the library of pre-built **UI components**, such as `Table`, `Map`, `Gallery`, or `Charts` that you can **drag and drop** to display your data. As well as the `Layout` components that are used to assemble other components on the page.
 
 ## Set the Layout

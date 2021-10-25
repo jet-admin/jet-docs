@@ -1,3 +1,5 @@
+[comment]: # ($page_title=Configure an Action)
+
 There are different sorts of **actions** that can be set in Jet Admin: `update a record`, `create a record`, `mass-delete`, `export`, custom `SQL/API queries`, and more. Every action can be triggered by `buttons` or components' functions, such as `row click`.
 
 For our case, let's drag and drop a `button`, select `Run operation` then select the **data source** and the **collection** you want to update:
